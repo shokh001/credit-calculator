@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7240a82-c866-4588-b11c-67e107995478" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pcKlKHlnHhMtz6zADcILEPFksw" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lessons/Lesson 33 Js" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PDP Web\WebFull G80\Lesson 17. MaxWay\assets\fonts\Inter" />
+      <recent name="D:\PDP Web\WebFull G80\Lesson 17. MaxWay" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7240a82-c866-4588-b11c-67e107995478" name="Default Changelist" comment="" />
+      <created>1615477087295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615477087295</updated>
+      <workItem from="1615477088556" duration="1319000" />
+      <workItem from="1615490229914" duration="3000" />
+      <workItem from="1615550421150" duration="13000" />
+      <workItem from="1615609501137" duration="4000" />
+      <workItem from="1615646403795" duration="6174000" />
+      <workItem from="1615911238977" duration="7484000" />
+      <workItem from="1615928563819" duration="2432000" />
+      <workItem from="1615974988804" duration="4278000" />
+      <workItem from="1615988575829" duration="17681000" />
+      <workItem from="1616221799375" duration="8140000" />
+      <workItem from="1616245247854" duration="25098000" />
+      <workItem from="1616309216457" duration="157000" />
+      <workItem from="1616467054031" duration="184000" />
+      <workItem from="1616473613485" duration="41000" />
+      <workItem from="1616494280417" duration="1600000" />
+      <workItem from="1616507613947" duration="1393000" />
+      <workItem from="1616664188292" duration="51000" />
+      <workItem from="1616794507045" duration="423000" />
+      <workItem from="1617253160427" duration="85000" />
+      <workItem from="1617287083360" duration="4393000" />
+      <workItem from="1617426578521" duration="62000" />
+      <workItem from="1617459487482" duration="5779000" />
+      <workItem from="1617516501351" duration="13000" />
+      <workItem from="1617516516899" duration="14000" />
+      <workItem from="1617891855347" duration="6028000" />
+      <workItem from="1617905907700" duration="153000" />
+      <workItem from="1617950375978" duration="463000" />
+      <workItem from="1618064627641" duration="5835000" />
+      <workItem from="1618168109780" duration="1656000" />
+      <workItem from="1618207803078" duration="1869000" />
+      <workItem from="1618243437496" duration="1208000" />
+      <workItem from="1618254927961" duration="612000" />
+      <workItem from="1618313465490" duration="11000" />
+      <workItem from="1618325325424" duration="354000" />
+      <workItem from="1618325722825" duration="4569000" />
+      <workItem from="1618379112704" duration="1217000" />
+      <workItem from="1618498269498" duration="5800000" />
+      <workItem from="1618512265043" duration="62000" />
+      <workItem from="1618513061830" duration="657000" />
+      <workItem from="1618581896146" duration="35000" />
+      <workItem from="1618582568013" duration="264000" />
+      <workItem from="1618641950494" duration="10000" />
+      <workItem from="1618671650110" duration="5438000" />
+      <workItem from="1618929891081" duration="5826000" />
+      <workItem from="1618992287075" duration="2529000" />
+      <workItem from="1619074086829" duration="10000" />
+      <workItem from="1619088059228" duration="433000" />
+      <workItem from="1619089428371" duration="318000" />
+      <workItem from="1619107053475" duration="1444000" />
+      <workItem from="1619109445927" duration="1421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
